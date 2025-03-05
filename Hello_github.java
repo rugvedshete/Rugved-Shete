@@ -1,4 +1,4 @@
-public class Hello_github
+public class HelloGithub
 {
 	public static void main(String[] args)
 	{
