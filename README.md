@@ -66,20 +66,3 @@ Add screenshots here:
 🔹 Microprice & order-book imbalance model
 
 ---
-
-## 📜 License
-MIT License – fully open-source for learning and quant preparation.
-
----
-
-## 👨‍💻 Author
-**Rugved Shete**  
-Aspiring Quant / HFT Analyst  
-📍 Pune, India  
-
----
-
-If you like this project, ⭐ the repository!  
-Open to collaboration on HFT / Algo Trading research 🚀
-## 📂 Files Included
-
